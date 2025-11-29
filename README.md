@@ -1,10 +1,10 @@
-# FaceSnap – Smart E-Learning & Attendance Management System
+# AI-Integrated Learning Management System  
 
 ---
 
 ## Overview
 
-**FaceSnap** is a full-stack web application that revolutionizes online learning with **AI-powered facial recognition** for secure and automated attendance. Designed to simulate real classroom engagement, FaceSnap integrates a custom video conferencing system and role-based dashboards for Admins, Mentors, and Students.
+**AI-Integrated Learning Management System ** is a full-stack web application that revolutionizes online learning with **AI-powered facial recognition** for secure and automated attendance. Designed to simulate real classroom engagement, FaceSnap integrates a custom video conferencing system and role-based dashboards for Admins, Mentors, and Students.
 
 ---
 
